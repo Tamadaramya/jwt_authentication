@@ -9,12 +9,16 @@ A secure Node.js + Express backend API that supports:
 ✅ Environment-based email support (e.g., Gmail SMTP)
 ✅ MongoDB integration with Mongoose
 
+
+
 Tech Stack
 Backend: Node.js, Express
 Database: MongoDB (via Mongoose)
 Auth: JWT, Cookies
 Email: Nodemailer (Gmail SMTP)
 Environment: dotenv
+
+
 
 Method	Route                    	 Description
 POST	/api/auth/register	         Register new user
